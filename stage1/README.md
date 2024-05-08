@@ -1,5 +1,5 @@
 # 🎓 RS School. JS/Frontend Development Course. Stage#1
-
+https://rolling-scopes-school.github.io/checklist/
 ## 🚀 Overview
 
 - 📣 **Open to all who wish to join**
